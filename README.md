@@ -33,6 +33,13 @@ The project uses a dataset containing information about individuals' mental heal
 - LightGBM
 - XGBoost
 
+## Installation
+
+1. Install required dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
 ## Preprocessing Techniques
 - Handling Missing Values
 - Label Encoding
@@ -64,13 +71,6 @@ Multiple models were trained and evaluated:
 
 ## Visualization
 The project includes a correlation matrix heatmap to understand feature relationships.
-
-## Installation
-
-1. Install required dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
 
 ## Future Improvements
 - Hyperparameter tuning
