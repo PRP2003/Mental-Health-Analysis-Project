@@ -12,7 +12,8 @@ The project uses a dataset containing information about individuals' mental heal
 - Dietary Habits
 - Suicidal Thoughts
 - Family History of Mental Illness
-- And more...
+- Dataset for this project is obtained from Kaggle Competition Titled : Exploring Mental Health Data (Playground Series - Season 4, Episode 11)
+- Link for Dataset : https://www.kaggle.com/competitions/playground-series-s4e11/data 
 
 ## Project Structure
 
@@ -76,4 +77,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Advanced feature engineering
 - Ensemble methods
 - More sophisticated imputation techniques
+
+## Model Valuation 
+With the above machine learning model, on evaluating with test dataset obtains an accuracy score of 92.382%  
 
